@@ -28,3 +28,11 @@ You should create one R script called run_analysis.R that does the following.
   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Good luck!
+
+## Versions
+All code developed and tested on:
+
+* OS: Windows 7
+* R: 3.5.2
+* R Package `dplyr`: 0.7.8
+* R Package `stringr`: 1.3.1
