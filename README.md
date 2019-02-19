@@ -1,1 +1,1 @@
-# Sergey-Lastochkin-Getting-and-cleaning-data-course-project
+# Sergey Lastochkin: Getting and Cleaning Data Course Project
