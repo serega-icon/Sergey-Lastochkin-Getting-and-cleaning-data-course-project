@@ -7,7 +7,7 @@ The basic information about this data set could be found in `README.MD`
 * `tidy_data.txt` contains describing in codebook data set, data set separated by spaces and contains variables names in first row and variables values in other roews;
 * `run_analysis.R` contains script performing the data set, script includes comments during the code;
 
-## [run_analysis.R](/run_analysys.R) Process
+## [run_analysis.R](/run_analysis.R) Process
 Original (not transformated) data set could be found via link
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
