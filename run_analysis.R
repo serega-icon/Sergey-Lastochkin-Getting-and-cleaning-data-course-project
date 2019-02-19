@@ -118,8 +118,3 @@ colnames(dataset) <- cnames
 dataset_means <- dataset %>%
   group_by(subject_id, activity_id, activity_name) %>%
   summarise_all(funs(mean))
-
-####################################
-# -    Write dataset into file     #
-####################################
-#write.table(dataset, "tidy_data.txt", row.names = FALSE, quote = FALSE)
